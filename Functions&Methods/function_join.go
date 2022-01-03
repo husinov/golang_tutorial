@@ -3,7 +3,7 @@ import ("fmt"
 		"strings"
 )
 
-func joinstr(element...string)(string){
+func joinstr(element ...string)(string){
 	return strings.Join(element, " - ")
 }
 func main(){
