@@ -1,7 +1,8 @@
 package main
+
 import "fmt"
 
-func main(){
+func main() {
 
 	num := []int{1, 2, 3, 4}
 	num = append(num, 5)

@@ -1,7 +1,8 @@
 package main
+
 import "fmt"
 
-func main(){
+func main() {
 	var name string
 
 	fmt.Print("Enter your name: ")
